@@ -7,6 +7,15 @@ We love your input! We want to make contributing to this project as easy and tra
 - Proposing new features
 - Becoming a maintainer
 
+## We Use MongoDB for our Database
+We use MongoDB for our database to access all necessary data.
+
+## Front-end with Bootstrap
+We use Bootrstrap as our front-end framework for all front-end development.
+
+## We use JIRA for Task Tracing
+We use JIRA Software to track and manage all project tasks.
+
 ## We Develop with Github
 We use github to host code, to track issues and feature requests, as well as accept pull requests.
 
